@@ -23,6 +23,7 @@ int main(){
 
         for(int j = 0; j < ct; ++j){
             int x;
+            cout << "x = ";
             cin >> x;
             m3[{fn, ln}].push_back(x);
         }
